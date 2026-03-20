@@ -9,7 +9,6 @@
 - [Social Media](#social-media)
 - [Cloud & Infrastructure](#cloud--infrastructure)
 - [Communication & Social](#communication--social)
-- [Data & Analytics](#data--analytics)
 - [Design & Productivity](#design--productivity)
 - [Development](#development)
 - [Finance & Payments](#finance--payments)
@@ -59,13 +58,6 @@
 
 ---
 
-### Data & Analytics
-
-| CLI | Description | Stars |
-|:----|:-----------|:------|
-
-
----
 
 ### Design & Productivity
 
