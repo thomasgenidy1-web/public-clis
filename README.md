@@ -44,7 +44,6 @@
 | [AWS CLI](https://github.com/aws/aws-cli) | Unified CLI for Amazon Web Services | ![Stars](https://img.shields.io/github/stars/aws/aws-cli.svg?style=social&label=) |
 | [GWS CLI](https://github.com/googleworkspace/cli) | Google Workspace CLI | ![Stars](https://img.shields.io/github/stars/googleworkspace/cli.svg?style=social&label=) |
 | [Vercel CLI](https://github.com/vercel/vercel) | Deploy and manage Vercel projects from the command line | ![Stars](https://img.shields.io/github/stars/vercel/vercel.svg?style=social&label=) |
-| [Netlify CLI](https://github.com/netlify/cli) | Build, deploy, and manage Netlify sites from the terminal | ![Stars](https://img.shields.io/github/stars/netlify/cli.svg?style=social&label=) |
 
 
 ---
@@ -64,8 +63,6 @@
 
 | CLI | Description | Stars |
 |:----|:-----------|:------|
-| [HTTPie](https://github.com/httpie/cli) | Human-friendly HTTP client for the API era | ![Stars](https://img.shields.io/github/stars/httpie/cli.svg?style=social&label=) |
-| [pgcli](https://github.com/dbcli/pgcli) | Postgres CLI with auto-completion and syntax highlighting | ![Stars](https://img.shields.io/github/stars/dbcli/pgcli.svg?style=social&label=) |
 
 
 ---
