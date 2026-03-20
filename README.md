@@ -40,9 +40,8 @@
 | CLI | Description | Platform | Install | Stars |
 |:----|:-----------|:---------|:--------|:------|
 | [AWS CLI](https://github.com/aws/aws-cli) | Unified CLI for Amazon Web Services — manage all AWS services | macOS, Linux, Windows | `pip install awscli` | ![Stars](https://img.shields.io/github/stars/aws/aws-cli.svg?style=social&label=) |
-| [GWS CLI](https://github.com/googleworkspace/cli) | Google Workspace CLI — dynamic access to Drive, Gmail, Calendar, Sheets, and more | macOS, Linux, Windows | `npm i -g @anthropic-ai/gws` | ![Stars](https://img.shields.io/github/stars/googleworkspace/cli.svg?style=social&label=) |
+| [GWS CLI](https://github.com/googleworkspace/cli) | Google Workspace CLI — dynamic access to Drive, Gmail, Calendar, Sheets, and more | macOS, Linux, Windows | `npm i -g @googleworkspace/cli` | ![Stars](https://img.shields.io/github/stars/googleworkspace/cli.svg?style=social&label=) |
 | [Azure CLI](https://github.com/Azure/azure-cli) | Cross-platform CLI for managing Azure resources | macOS, Linux, Windows | `brew install azure-cli` | ![Stars](https://img.shields.io/github/stars/Azure/azure-cli.svg?style=social&label=) |
-| [Google Cloud CLI](https://github.com/google-cloud-sdk/google-cloud-sdk) | Manage Google Cloud Platform resources and developer workflows | macOS, Linux, Windows | [Install](https://cloud.google.com/sdk/docs/install) | — |
 | [Terraform CLI](https://github.com/hashicorp/terraform) | Infrastructure as Code — provision and manage any cloud | macOS, Linux, Windows | `brew install terraform` | ![Stars](https://img.shields.io/github/stars/hashicorp/terraform.svg?style=social&label=) |
 | [Vercel CLI](https://github.com/vercel/vercel) | Deploy and manage Vercel projects from the command line | macOS, Linux, Windows | `npm i -g vercel` | ![Stars](https://img.shields.io/github/stars/vercel/vercel.svg?style=social&label=) |
 | [Netlify CLI](https://github.com/netlify/cli) | Build, deploy, and manage Netlify sites from the terminal | macOS, Linux, Windows | `npm i -g netlify-cli` | ![Stars](https://img.shields.io/github/stars/netlify/cli.svg?style=social&label=) |
