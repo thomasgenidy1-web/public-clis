@@ -67,8 +67,6 @@
 
 | CLI | Description | Platform | Install | Stars |
 |:----|:-----------|:---------|:--------|:------|
-| [jq](https://github.com/jqlang/jq) | Lightweight and flexible command-line JSON processor | macOS, Linux, Windows | `brew install jq` | ![Stars](https://img.shields.io/github/stars/jqlang/jq.svg?style=social&label=) |
-| [yq](https://github.com/mikefarah/yq) | Portable command-line YAML/JSON/XML/CSV/TOML processor | macOS, Linux, Windows | `brew install yq` | ![Stars](https://img.shields.io/github/stars/mikefarah/yq.svg?style=social&label=) |
 | [HTTPie](https://github.com/httpie/cli) | Human-friendly HTTP client for the API era — JSON, colors, sessions | macOS, Linux, Windows | `brew install httpie` | ![Stars](https://img.shields.io/github/stars/httpie/cli.svg?style=social&label=) |
 | [pgcli](https://github.com/dbcli/pgcli) | Postgres CLI with auto-completion and syntax highlighting | macOS, Linux, Windows | `pip install pgcli` | ![Stars](https://img.shields.io/github/stars/dbcli/pgcli.svg?style=social&label=) |
 
